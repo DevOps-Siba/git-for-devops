@@ -1,4 +1,11 @@
 #Git for DevOps 
 
 
-this is use for understanding concept og git
+this is use for understanding concept of git
+
+
+
+
+commands
+tutorials
+videos
